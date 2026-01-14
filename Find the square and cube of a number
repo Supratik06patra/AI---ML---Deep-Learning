@@ -1,0 +1,6 @@
+** Develop a Python Program To Calculate The Squre and Cube Of a Given Number Using Arithmatic Operaation.
+
+n = int(input("Enter a number: "))
+
+print("Square:", n * n)
+print("Cube:", n * n * n)
