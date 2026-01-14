@@ -1,0 +1,8 @@
+** Create a Python Program To Compute The Simple Interest Using The Formula { SI = (P * R * T)/100 }.
+
+P = float(input("Principal: "))
+R = float(input("Rate: "))
+T = float(input("Time: "))
+
+SI = (P * R * T) / 100
+print("Simple Interest:", SI)
