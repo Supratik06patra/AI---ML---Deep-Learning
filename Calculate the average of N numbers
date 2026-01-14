@@ -1,0 +1,10 @@
+** Write a Python Program To Find The Average Of N Numbers Using Arithmatic Operation.
+
+n = int(input("Enter numbers: "))
+total = 0
+
+for i in range(n);
+  total += float(input("Enter number: "))
+
+average = total / n
+print("Average:", average)
